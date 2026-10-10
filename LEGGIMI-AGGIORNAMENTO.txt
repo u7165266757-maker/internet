@@ -1,0 +1,39 @@
+AGGIORNAMENTO — telefono e memoria dei personaggi
+
+SI GIOCA ANCHE DAL TELEFONO
+  trascina il dito ....... ti guardi attorno nella stanza
+  tocca lo schermo ....... ti siedi al computer
+  "stanza" (in alto) ..... stacchi gli occhi dal monitor
+  "finestra" ............. giri lo sguardo verso la finestra, e poi torni avanti
+
+  Quando sei al computer l'interfaccia esce dal monitor e prende tutto lo
+  schermo del telefono: dentro il monitor in prospettiva non si leggerebbe
+  niente. Le finestre delle app si aprono a tutto schermo, una per volta,
+  e la rubrica dei Messaggi diventa una striscia da scorrere col pollice.
+  La tastiera del telefono non copre più la riga dove scrivi.
+  Sul telefono la stanza gira più leggera: meno pioggia, meno polvere,
+  niente ombre calcolate.
+
+  Per vedere com'è fatto il telefono stando al computer, apri il gioco con
+  ?mobile=1 in fondo all'indirizzo. Con ?desktop=1 torni ai comandi del mouse.
+
+I PARENTI SI RICORDANO DI TE
+  Ogni personaggio tiene un diario di quello che gli hai scritto: i fatti
+  (come ti chiami, se hai mangiato, se hai chiuso la porta, di cosa hai
+  paura, cosa hai confessato), quando li hai detti, e di cosa stavate
+  parlando.
+
+  Da questo nasce quello che prima non c'era:
+  - ti ricordano le tue parole ("mi hai detto che non riesci a dormire,
+    un quarto d'ora fa");
+  - ti prendono in contraddizione se cambi versione ("prima mi avevi
+    scritto che stavi bene");
+  - capiscono i rilanci: "perché?", "e allora", "dimmi", "e poi" continuano
+    il discorso di prima invece di far ripartire da zero;
+  - non si ripetono: ogni argomento ha un ordine di risposte che avanza, e
+    quando hanno detto tutto lo dicono ("su questo ti ho detto tutto");
+  - se lasci cadere una loro domanda insistono due volte, poi rinunciano;
+  - se rispondi "sì" o "no" sanno a che cosa stavi rispondendo, e
+    reagiscono a quello (la porta, il cibo, le tende, la visita);
+  - ti rimandano indietro una tua frase vecchia, più la notte peggiora;
+  - quello che confessi a uno gira in famiglia: un altro te lo dice.
