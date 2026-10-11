@@ -1,0 +1,68 @@
+TUTTO È VERO
+un gioco horror in una stanza
+
+COME SI GIOCA
+  Apri index.html con un doppio clic (Safari, Firefox, Chrome).
+  Non serve internet: three.js è già dentro la cartella js/.
+  Audio consigliato, luci spente.
+
+COMANDI
+  mouse ................ ti guardi attorno (sei seduto)
+  clic .................. ti avvicini al computer
+  ESC ................... stacchi gli occhi dal monitor
+                          (anche un clic fuori dall'interfaccia)
+
+COSA C'È DENTRO
+  Tre app: Chiamate (non risponde nessuno), Messaggi (parenti,
+  la vecchia amica di tuo fratello, e chi non risponde mai),
+  Internet (si sblocca dopo circa un minuto e mezzo).
+
+  LA FINESTRA — è a sinistra: gira lo sguardo col mouse. Si vede
+  il cortile, la palazzina di fronte con le finestre che si
+  accendono e si spengono, il lampione, la pioggia. E la finestra
+  grande davanti alla tua, sempre accesa e sempre vuota.
+  Mentre sei al computer la trovi riflessa nel vetro del monitor:
+  se lì dentro compare qualcuno, lo vedi senza voltarti.
+
+  RICERCHE RECENTI — su cerca.it la cronologia è già piena, ma
+  non è tua: sono le ricerche di chi stava in questa stanza due
+  anni fa. Durante la notte se ne aggiungono altre che non hai
+  digitato tu — a volte sono le parole esatte che hai scritto in
+  chat. Alcune domande hanno una risposta diretta.
+
+  I parenti leggono davvero quello che scrivi: riconoscono saluti,
+  affetto, domande, paura, bugie, minacce e confessioni. Hanno
+  carattere, memoria, umore, e ti raccontano segreti solo se si
+  fidano. Alcuni, se li spaventi troppo, chiamano la polizia.
+
+  Più sei gentile e onesto, più la notte resta una notte.
+  Più scendi nel losco, più la stanza cambia: la luce tradisce,
+  la finestra di fronte non è vuota, e si apre la rete NX7 per
+  far sparire le prove e lavorare sulla testa dell'ispettore.
+
+PER VEDERE SUBITO I FINALI (collaudo)
+  CTRL+ALT+1 .... FUORILEGGE (lo sparo, il monitor bucato)
+  CTRL+ALT+2 .... I FIORI (il campanello, i fiori, il referto)
+  CTRL+ALT+3 .... IL SILENZIO
+  Durante un finale la telecamera non segue più il mouse: è la
+  regia che guarda dove deve (la finestra, la scrivania, lo
+  schermo). Non toccare nulla e lascia scorrere: 21 secondi per
+  FUORILEGGE, 32 per I FIORI, 22 per IL SILENZIO.
+  INVIO ricarica il gioco quando sei alla schermata finale.
+
+TRE FINALI
+  FUORILEGGE ... il sospetto arriva a 100 e non ti sei difeso
+  I FIORI ...... ti fidanzi o fai soldi (≥ € 3.000)
+  IL SILENZIO .. non scrivi a nessuno per tutta la notte
+
+FILE
+  index.html      pagina del gioco
+  style.css       interfaccia, CRT, foro di proiettile
+  js/world.js     la stanza in 3D e gli eventi horror
+  js/nlu.js       comprensione dell'italiano scritto
+  js/people.js    i personaggi: carattere, memoria, segreti
+  js/os.js        il sistema operativo dentro il monitor
+  js/app_*.js     posta, chiamate, chat, browser
+  js/police.js    indagine, prove, manipolazione
+  js/endings.js   i finali
+  js/director.js  la regia della notte
